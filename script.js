@@ -1,5 +1,5 @@
 function add(...numbers) {
-  let sum = a + b;
+  let sum = 0;
   for (let number of numbers) {
     sum += numbers;
   }
